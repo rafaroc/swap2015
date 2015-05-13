@@ -1,0 +1,180 @@
+------------------------
+Status: 200
+---- Headers -----------
+Server: nginx/1.6.2
+Date: Mon, 11 May 2015 20:25:22 GMT
+Content-Type: text/html
+Content-Length: 177
+Connection: close
+Last-Modified: Tue, 03 Mar 2015 21:36:36 GMT
+ETag: "c261e-b1-510692112ec35"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+---- Body   177 bytes --
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+---- End ---------------
+------------------------
+Status: 200
+---- Headers -----------
+Server: nginx/1.6.2
+Date: Mon, 11 May 2015 20:25:22 GMT
+Content-Type: text/html
+Content-Length: 177
+Connection: close
+Last-Modified: Tue, 03 Mar 2015 21:36:36 GMT
+ETag: "c261e-b1-510692112ec35"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+---- Body   177 bytes --
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+---- End ---------------
+------------------------
+Status: 200
+---- Headers -----------
+Server: nginx/1.6.2
+Date: Mon, 11 May 2015 20:25:22 GMT
+Content-Type: text/html
+Content-Length: 177
+Connection: close
+Last-Modified: Tue, 03 Mar 2015 21:36:36 GMT
+ETag: "c261e-b1-510692112ec35"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+---- Body   177 bytes --
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+---- End ---------------
+------------------------
+Status: 200
+---- Headers -----------
+Server: nginx/1.6.2
+Date: Mon, 11 May 2015 20:25:22 GMT
+Content-Type: text/html
+Content-Length: 177
+Connection: close
+Last-Modified: Tue, 03 Mar 2015 21:36:36 GMT
+ETag: "607c0-b1-5106921122100"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+---- Body   177 bytes --
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+---- End ---------------
+------------------------
+Status: 200
+---- Headers -----------
+Server: nginx/1.6.2
+Date: Mon, 11 May 2015 20:25:22 GMT
+Content-Type: text/html
+Content-Length: 177
+Connection: close
+Last-Modified: Tue, 03 Mar 2015 21:36:36 GMT
+ETag: "607c0-b1-5106921122100"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+---- Body   177 bytes --
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+---- End ---------------
+------------------------
+Status: 200
+---- Headers -----------
+Server: nginx/1.6.2
+Date: Mon, 11 May 2015 20:25:22 GMT
+Content-Type: text/html
+Content-Length: 177
+Connection: close
+Last-Modified: Tue, 03 Mar 2015 21:36:36 GMT
+ETag: "607c0-b1-5106921122100"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+---- Body   177 bytes --
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+---- End ---------------
+------------------------
+Status: 200
+---- Headers -----------
+Server: nginx/1.6.2
+Date: Mon, 11 May 2015 20:25:22 GMT
+Content-Type: text/html
+Content-Length: 177
+Connection: close
+Last-Modified: Tue, 03 Mar 2015 21:36:36 GMT
+ETag: "607c0-b1-5106921122100"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+---- Body   177 bytes --
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+---- End ---------------
+------------------------
+Status: 200
+---- Headers -----------
+Server: nginx/1.6.2
+Date: Mon, 11 May 2015 20:25:22 GMT
+Content-Type: text/html
+Content-Length: 177
+Connection: close
+Last-Modified: Tue, 03 Mar 2015 21:36:36 GMT
+ETag: "c261e-b1-510692112ec35"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+---- Body   177 bytes --
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+---- End ---------------
+------------------------
+Status: 200
+---- Headers -----------
+Server: nginx/1.6.2
+Date: Mon, 11 May 2015 20:25:22 GMT
+Content-Type: text/html
+Content-Length: 177
+Connection: close
+Last-Modified: Tue, 03 Mar 2015 21:36:36 GMT
+ETag: "c261e-b1-510692112ec35"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+---- Body   177 bytes --
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+---- End ---------------
+------------------------
+Status: 200
+---- Headers -----------
+Server: nginx/1.6.2
+Date: Mon, 11 May 2015 20:25:22 GMT
+Content-Type: text/html
+Content-Length: 177
+Connection: close
+Last-Modified: Tue, 03 Mar 2015 21:36:36 GMT
+ETag: "607c0-b1-5106921122100"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+---- Body   177 bytes --
+<html><body><h1>It works!</h1>
+<p>This is the default web page for this server.</p>
+<p>The web server software is running but no content has been added, yet.</p>
+</body></html>
+---- End ---------------
