@@ -59,7 +59,7 @@ Guardamos los cambios hechos en el archivo y reiniciamos mysql.
 	* SHOW MASTER STATUS;
 ![Imgur](http://i.imgur.com/xb6fixs.jpg)
 ![Imgur](http://i.imgur.com/fkHBTUd.jpg)
-![Imgur](http://i.imgur.com/JCOT271.jpg)
+
 
 * Volvemos finalmente a la maquina 2, esclava, y en mysql introducimos estos comandos para cambiar el archivo de configuracion, en versiones anteriores a la 5.5 se cambian directamente las varibles en el archivo.
 	* CHANGE MASTER TO MASTER_HOST = '192.168.197.128',MASTER_USER= 'esclavo',  MASTER_PASSWORD='esclavo', MASTER_LOG_FILE='mysql-bin.000001', MASTER_LOG_POS=501, MASTER_PORT=3306;
